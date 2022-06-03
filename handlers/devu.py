@@ -77,7 +77,7 @@ def callback_query(Client, callback: CallbackQuery):
         REPO_MSG = f"""Hey, Here is the source code of DevuMusic🧚‍♀️\nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
         REPO_BUTTONS = [
             [
-                InlineKeyboardButton(text="Source", url="t.me/ShiningOff"),
+                InlineKeyboardButton(text="Source", url="https://github.com/ItsmeHyper13/DevuMusic"),
                 InlineKeyboardButton(text="Back", callback_data="HOME"),
             ],
         ]
