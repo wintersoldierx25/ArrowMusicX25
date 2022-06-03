@@ -57,7 +57,7 @@ def help_(bot, message):
 def callback_query(Client, callback: CallbackQuery):
     if callback.data == "help_":
     
-        HELP_TXT = f"""Hoi, Here is the help menu choose your desireoption nd explorer it!!\nFor any kind of help or query Just join @SilentVerseand ask your query!!"""
+        HELP_TXT = f"""Hoi, Here is the help menu choose your desireoption nd explorer it!!\nFor any kind of help or query Just join @SilentVerse and ask your query!!"""
     
         HELP_BUTTON = [
             [
