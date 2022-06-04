@@ -1,7 +1,7 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @WinterSoldierX25
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @WinterSoldierX25
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 import os
@@ -165,7 +165,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/9350788513346feef5087.jpg"
+        thumb_name = "https://telegra.ph/file/c4bd99bba5a0bc7277c37.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -175,10 +175,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/bromusic1303"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/bromusic1303"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -219,10 +219,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/bromusic1303"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/bromusic1303"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -232,7 +232,7 @@ async def play(_, message: Message):
     
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/9350788513346feef5087.jpg"
+            thumb_name = "https://telegra.ph/file/c4bd99bba5a0bc7277c37.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -240,10 +240,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/bromusic1303"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/bromusic1303"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -299,10 +299,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            url=f"https://t.me/bromusic1303"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            url=f"https://t.me/bromusic1303"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
