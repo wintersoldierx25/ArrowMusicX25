@@ -24,7 +24,7 @@ END = "https://telegra.ph/file/6d1902d08c88f318d53c7.jpg"
 
 BUTTON = [
     [
-        InlineKeyboardButton(text="Support", url="https://t.me/SilentVerse"),
+        InlineKeyboardButton(text="Support", url="https://t.me/bromusic1303"),
         InlineKeyboardButton(text="🗑️Close", callback_data="close_"),
     ],
 ]
