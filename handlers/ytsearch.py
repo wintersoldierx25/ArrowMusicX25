@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @WinterSoldierX25
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 # the logging things
