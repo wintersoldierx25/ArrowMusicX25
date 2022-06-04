@@ -1,7 +1,7 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @WinterSoldierX25
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @WinterSoldierX25
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 from helpers.filters import command
@@ -57,7 +57,7 @@ def help_(bot, message):
 def callback_query(Client, callback: CallbackQuery):
     if callback.data == "help_":
     
-        HELP_TXT = f"""Hoi, Here is the help menu choose your desireoption nd explorer it!!\nFor any kind of help or query Just join @SilentVerse and ask your query!!"""
+        HELP_TXT = f"""Hoi, Here is the help menu choose your desireoption nd explorer it!!\nFor any kind of help or query Just join @bromusic1303 and ask your query!!"""
     
         HELP_BUTTON = [
             [
@@ -77,7 +77,7 @@ def callback_query(Client, callback: CallbackQuery):
         REPO_MSG = f"""Hey, Here is the source code of Arrow MusicX25🧚‍♀️\nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
         REPO_BUTTONS = [
             [
-                InlineKeyboardButton(text="Source", url="https://github.com/wintersoldierx25/DevuMusic"),
+                InlineKeyboardButton(text="Source", url="https://github.com/wintersoldierx25/ArrowMusicX25"),
                 InlineKeyboardButton(text="Back", callback_data="HOME"),
             ],
         ]
