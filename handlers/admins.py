@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @WinterSoldierX25
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 from asyncio.queues import QueueEmpty
@@ -17,10 +17,10 @@ from pyrogram.types import (CallbackQuery, InlineKeyboardButton,
                             ReplyKeyboardMarkup, ReplyKeyboardRemove)
 
 
-PAUSED = "https://telegra.ph/file/94ee2bdfc7e81d371aae3.jpg"
-RESUMED = "https://telegra.ph/file/50cf13056d78898e13ae0.jpg"
-SKIPPED = "https://telegra.ph/file/116d7d9b9100c44249333.jpg"
-END = "https://telegra.ph/file/6d1902d08c88f318d53c7.jpg"
+PAUSED = "https://telegra.ph/file/c4bd99bba5a0bc7277c37.jpg"
+RESUMED = "https://telegra.ph/file/c4bd99bba5a0bc7277c37.jpg"
+SKIPPED = "https://telegra.ph/file/c4bd99bba5a0bc7277c37.jpg"
+END = "https://telegra.ph/file/c4bd99bba5a0bc7277c37.jpg"
 
 BUTTON = [
     [
