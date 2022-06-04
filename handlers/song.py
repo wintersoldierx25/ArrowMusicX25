@@ -1,4 +1,4 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @WinterSoldierX25
 # Dear Pero ppls Plish Don't remove this line from here🌚
 
 import os
@@ -54,7 +54,7 @@ def song(client, message):
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = "**ᴜᴘʟᴏᴀᴅᴇʀ🥀 :-  [ᴅᴇᴠᴜ-ʀᴏʙᴏᴛ🧚‍♀️](https://t.me/DEVU_ROBOT)**"
+        rep = "**ᴜᴘʟᴏᴀᴅᴇʀ🥀 :-  [ᴅᴇᴠᴜ-ʀᴏʙᴏᴛ🧚‍♀️](https://t.me/bromusic1303)**"
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
