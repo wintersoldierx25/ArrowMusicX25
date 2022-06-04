@@ -11,7 +11,7 @@ from pyrogram.errors import UserAlreadyParticipant
 from callsmusic.callsmusic import client as aditya
 from config import SUDO_USERS
 
-DARK_IMG = "https://telegra.ph/file/9350788513346feef5087.jpg"
+DARK_IMG = "https://telegra.ph/file/c4bd99bba5a0bc7277c37.jpg"
 
 @Client.on_message(filters.command("gcast"))
 async def broadcast(_, message: Message):
