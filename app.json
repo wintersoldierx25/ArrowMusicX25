@@ -2,7 +2,7 @@
   "name": "HyperX Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/HYPER-AD13/SreeMusic",
+  "repository": "https://github.com/ItsmeHyper13/DevuMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
